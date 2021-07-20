@@ -8,11 +8,13 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yasoom&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🌌Systems student 📑Self-taught in the world of programming
-🔭 I am currently working as a stockist and content creator at YT.
-🌱 I am currently learning Web Development and Cyber Security.
-💬 Ask me about: cybersecurity, technology, hardware, keyboards, etc.
-📫 How to communicate with me: youtube, twitter and discord.
-⚡ Fun fact: I love playing WarZone and Days Gone. 
+
+- 🔭 I’m currently working as a stockist and content creator at YT.
+- 🌱 I’m currently learning Web Development and Cyber Security.
+- 💬 Ask me about cybersecurity, technology, hardware, keyboards, etc.
+- 📫 How to reach me: youtube, twitter and discord.
+- ⚡ Fun fact: I love playing WarZone and Days Gone.
+-->
 <hr>
 
 
