@@ -11,6 +11,7 @@
 - 💬 Ask me about cybersecurity, technology, hardware, keyboards, etc.
 - 📫 How to reach me: youtube, twitter and discord.
 - ⚡ Fun fact: I love ethical hacking and playing zombie video games.<br>
+<hr>
 
 ### 📫Contact me
 
@@ -27,6 +28,7 @@
   <img align="left" alt="Abhishek's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
 </a>
 <br>
+
 ### 💻Working with
 
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />](yt)
@@ -41,6 +43,7 @@
 
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />](yt)<br/>
 
+<hr>
 ### 🎥Last YT Videos
 
 <!-- YT:START -->
