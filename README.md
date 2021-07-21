@@ -3,9 +3,9 @@
 <!-- [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCtzB6HvsN4WN37GYtd8TKwQ?label=TutosPixel&style=social)](https://www.youtube.com/c/TUTOSPIXEL/join)
 [![Twitter Follow](https://img.shields.io/twitter/follow/iPiixeeL?label=%40iPiixeeL&style=social)](https://twitter.com/iPiixeeL) -->
 
-[<img src="https://giffiles.alphacoders.com/209/209037.gif?raw=true" width="1050" height="150" />][youtube]
+[<img src="https://giffiles.alphacoders.com/209/209037.gif?raw=true" width="1050" height="100" />][youtube]
 
-[<img align="right" atl="GIF" src="https://i.gifer.com/5zdh.gif?raw=true" width="400" height="460" />][youtube]
+[<img align="right" atl="GIF" src="https://s6.gifyu.com/images/5zdh.gif" width="350" height="400" />][youtube]
 
 ### 🌌Systems student 📑Self-taught in the world of programming
 
