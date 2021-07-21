@@ -13,9 +13,25 @@
 - 🌱 I’m currently learning Web Development and Cyber Security.
 - 💬 Ask me about cybersecurity, technology, hardware, keyboards, etc.
 - 📫 How to reach me: youtube, twitter and discord.
-- ⚡ Fun fact: I love playing WarZone and Days Gone.
+- ⚡ Fun fact: I love ethical hacking and playing zombie video games.
 <hr>
 
+### 📫Contact me
+
+<a href="https://discord.gg/uT88RrR">
+  <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+</a>
+<a href="https://twitter.com/iPiixeeL">
+  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+<a href="https://www.youtube.com/c/TUTOSPIXEL/join">
+  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
+</a>
+<a href="https://www.facebook.com/tutospixel">
+  <img align="left" alt="Abhishek's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
+</a>
+<br>
+<hr>
 ### 💻Working with
 
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />](yt)
