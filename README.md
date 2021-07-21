@@ -1,8 +1,5 @@
 ### console.log("Hello, world!") I'm Arturo["PIXEL"][yt]👽
 
-<!-- [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCtzB6HvsN4WN37GYtd8TKwQ?label=TutosPixel&style=social)](https://www.youtube.com/c/TUTOSPIXEL/join)
-[![Twitter Follow](https://img.shields.io/twitter/follow/iPiixeeL?label=%40iPiixeeL&style=social)](https://twitter.com/iPiixeeL) -->
-
 [<img src="https://giffiles.alphacoders.com/209/209037.gif?raw=true" width="1050" height="50" />][yt]
 
 [<img align="right" atl="GIF" src="https://s6.gifyu.com/images/5zdh.gif?raw=true" width="350" height="400" />][yt]
@@ -13,8 +10,7 @@
 - 🌱 I’m currently learning Web Development and Cyber Security.
 - 💬 Ask me about cybersecurity, technology, hardware, keyboards, etc.
 - 📫 How to reach me: youtube, twitter and discord.
-- ⚡ Fun fact: I love ethical hacking and playing zombie video games.
-<hr>
+- ⚡ Fun fact: I love ethical hacking and playing zombie video games.<br>
 
 ### 📫Contact me
 
@@ -31,7 +27,6 @@
   <img align="left" alt="Abhishek's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
 </a>
 <br>
-<hr>
 ### 💻Working with
 
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />](yt)
@@ -45,8 +40,6 @@
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />](yt)
 
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />](yt)<br/>
-
-<hr/>
 
 ### 🎥Last YT Videos
 
