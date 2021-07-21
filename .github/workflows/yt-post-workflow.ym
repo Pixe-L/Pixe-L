@@ -1,14 +1,16 @@
-name: Latest blog post workflow
+name: Latest Youtube Videos
 on:
   schedule: # Run workflow automatically
     - cron: '0 * * * *' # Runs every hour, on the hour
+
   workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the Github Actions Workflow page directly
 jobs:
   update-readme-with-blog:
-    name: Update this repo's README with latest blog posts
+    name: Update this repo's README with latest Youtube Videos
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          feed_list: "https://dev.to/feed/gautamkrishnar,https://www.gautamkrishnar.com/feed/"
+          comment_tag_name: 'YT'
+          feed_list: 'https://www.youtube.com/feeds/videos.xml?channel_id=UCtzB6HvsN4WN37GYtd8TKwQ'

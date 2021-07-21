@@ -7,7 +7,7 @@
 
 [<img align="right" atl="GIF" src="https://s6.gifyu.com/images/5zdh.gif?raw=true" width="350" height="400" />][yt]
 
-### 💙Systems student 📚Self-taught in the world of programming
+### 💙Systems student 📚Self-taught in the world of programming and CyberSecurity
 
 - 🔭 I’m currently working as a stockist and content creator at YT.
 - 🌱 I’m currently learning Web Development and Cyber Security.
@@ -28,9 +28,14 @@
 
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />](yt)
 
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />](yt)
-<br/>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yasoom&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />](yt)<br/>
+
+<hr/>
+
+### 🎥Last YT Videos
+
+<!-- YT:START -->
+<!-- YT:END -->
 
 <!-- LINKS -->
 
