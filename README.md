@@ -7,7 +7,7 @@
 
 [<img align="right" atl="GIF" src="https://s6.gifyu.com/images/5zdh.gif?raw=true" width="350" height="400" />][yt]
 
-### 💙Systems student 📚Self-taught in the world of programming and CyberSecurity
+### 💙Systems student 📚Autodidact in the world of programming and CyberSecurity
 
 - 🔭 I’m currently working as a stockist and content creator at YT.
 - 🌱 I’m currently learning Web Development and Cyber Security.
