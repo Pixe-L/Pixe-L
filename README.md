@@ -48,11 +48,11 @@
 ### 🎥Last YT Videos
 
 <!-- YT:START -->
+- [Instalación e Incorporación de Git Bash en Visual Studio Code](https://www.youtube.com/watch?v=eQ84h0Eau9I)
 - [¡Solución! Premiere se Queda sin Audio](https://www.youtube.com/watch?v=JNzbD4UKRcw)
 - [Comprobar si Puedo Instalar WINDOWS 11 en mi Computadora (TPM 2.0)](https://www.youtube.com/watch?v=DGC-pzuvrRo)
 - [Eliminar o Desvincular Cuentas de Microsoft en Windows 10](https://www.youtube.com/watch?v=BshocJjUVsY)
 - [Efecto Censura con Adobe Premiere](https://www.youtube.com/watch?v=XuW6yM7grGI)
-- [¡Solución! Bug de Premiere No Se Ve El Contorno De Las Mascaras](https://www.youtube.com/watch?v=qV8UJNrW4CU)
 <!-- YT:END -->
 
 <!-- LINKS -->
