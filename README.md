@@ -33,27 +33,27 @@
 
 <a href="https://devdocs.io/html/" target="_blank">
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-a/>
+<a/>
   
 <a href="https://devdocs.io/css/" target="_blank">
 <img align="left" alt="CSS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-a/>
+<a/>
   
 <a href="https://devdocs.io/javascript/" target="_blank">
 <img align="left" alt="javascript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />](js)
-a/>
+<a/>
   
 <a href="https://devdocs.io/git/" target="_blank">
 <img align="left" alt="git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-a/>
+<a/>
   
 <a href="https://devdocs.io/react/" target="_blank">
 <img align="left" alt="react" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-a/>
+<a/>
   
 <a href="https://devdocs.io/python~3.9/" target="_blank">
 <img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" /><br/>
-a/>
+<a/>
   
 <hr>
 
