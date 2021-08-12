@@ -54,7 +54,11 @@
 <a href="https://devdocs.io/python~3.9/" target="_blank">
 <img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" /><br/>
 <a/>
-  
+
+<a href="https://www.figma.com/best-practices/guide-to-developer-handoff/components-styles-and-documentation/" target="_blank">
+<img align="left" alt="figma" width="26px" src="https://i.ibb.co/7Vj1crn/figma-logo-icon-147289.png" /><br/>
+<a/>
+
 <hr>
 
 ### 🎥Last YT Videos
