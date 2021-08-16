@@ -2,7 +2,7 @@
 
 [<img src="https://giffiles.alphacoders.com/209/209037.gif?raw=true" width="1050" height="50" />][yt]
 
-[<img align="right" atl="GIF" src="https://tenor.com/view/hacker-man-hacker-neon-ps4-glitched-gif-20054441.gif?raw=true" width="350" height="400" />][yt]
+[<img align="right" src="https://s5.gifyu.com/images/5zdh.gif" width="350" height="400" />][yt]
 
 ### 💙Systems student 📚Autodidact in the world of programming and CyberSecurity
 
