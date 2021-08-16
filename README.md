@@ -2,7 +2,7 @@
 
 [<img src="https://giffiles.alphacoders.com/209/209037.gif?raw=true" width="1050" height="50" />][yt]
 
-[<img align="right" atl="GIF" src="https://s6.gifyu.com/images/5zdh.gif?raw=true" width="350" height="400" />][yt]
+[<img align="right" atl="GIF" src="https://tenor.com/view/hacker-man-hacker-neon-ps4-glitched-gif-20054441.gif?raw=true" width="350" height="400" />][yt]
 
 ### 💙Systems student 📚Autodidact in the world of programming and CyberSecurity
 
@@ -11,6 +11,7 @@
 - 💬 Ask me about cybersecurity, technology, hardware, keyboards, etc.
 - 📫 How to reach me: youtube, twitter and discord.
 - ⚡ Fun fact: I love ethical hacking and playing zombie video games.<br>
+
 <hr>
 
 ### 📫Contact me
@@ -27,6 +28,7 @@
 <a href="https://www.facebook.com/tutospixel">
   <img align="left" alt="Abhishek's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
 </a>
+
 <br>
 
 ### 💻Working with
@@ -59,6 +61,7 @@
 <img align="auto" alt="figma" width="26px" src="https://i.ibb.co/7Vj1crn/figma-logo-icon-147289.png" />
 <a/>
 
+<br>
 <hr>
 
 ### 🎥Last YT Videos
