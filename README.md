@@ -16,7 +16,7 @@
 
 ### 📫Contact me
 
-<a href="https://discord.gg/uT88RrR">
+<a target="_blank" href="https://discord.gg/uT88RrR">
   <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 <a href="https://twitter.com/iPiixeeL">
