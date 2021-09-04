@@ -67,11 +67,11 @@
 ### 🎥Last YT Videos
 
 <!-- YT:START -->
+- [Instalación de Just Color Picker](https://www.youtube.com/watch?v=VBIbKHa6g28)
 - [Música de Fondo, Aumentar y Disminuir Volumen en Premiere](https://www.youtube.com/watch?v=wg_ilgdq_eg)
 - [Instalación e Incorporación de Git Bash en Visual Studio Code](https://www.youtube.com/watch?v=eQ84h0Eau9I)
 - [¡Solución! Premiere se Queda sin Audio](https://www.youtube.com/watch?v=JNzbD4UKRcw)
 - [Comprobar si Puedo Instalar WINDOWS 11 en mi Computadora (TPM 2.0)](https://www.youtube.com/watch?v=DGC-pzuvrRo)
-- [Eliminar o Desvincular Cuentas de Microsoft en Windows 10](https://www.youtube.com/watch?v=BshocJjUVsY)
 <!-- YT:END -->
 
 <!-- LINKS -->
