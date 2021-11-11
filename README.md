@@ -67,11 +67,11 @@
 ### 🎥Last YT Videos
 
 <!-- YT:START -->
+- [Error al Instalar MySQL Server ¡Solución!](https://www.youtube.com/watch?v=0MF-nUdCR7U)
 - [Reparar y Recuperar Archivos de Memoria USB o Micro SD Dañada](https://www.youtube.com/watch?v=s71WX9WijQQ)
 - [Abrir la Nat de WARZONE en PS4 Modem HG8145V5 TotalPlay](https://www.youtube.com/watch?v=tzhoqrxVQiM)
 - [¡Solución! No se Escucha la Voz en OBS desde Voice Meeter Banana](https://www.youtube.com/watch?v=wGxvRP0UoY0)
 - [Documentación Oficial para Desarrolladores con Zeal](https://www.youtube.com/watch?v=NfScIlvH5xg)
-- [Instalación de Just Color Picker](https://www.youtube.com/watch?v=VBIbKHa6g28)
 <!-- YT:END -->
 
 <!-- LINKS -->
