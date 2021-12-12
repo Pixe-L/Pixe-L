@@ -67,11 +67,11 @@
 ### 🎥Last YT Videos
 
 <!-- YT:START -->
+- [💻Ejecutar Código JavaScript en Visual Studio Code](https://www.youtube.com/watch?v=92WHXqlBncI)
 - [Eliminar Múltiples Contactos a la Vez en IPHONE](https://www.youtube.com/watch?v=RZeN5E3PAEU)
 - [Error al Instalar MySQL Server ¡Solución!](https://www.youtube.com/watch?v=0MF-nUdCR7U)
 - [Reparar y Recuperar Archivos de Memoria USB o Micro SD Dañada](https://www.youtube.com/watch?v=s71WX9WijQQ)
 - [Abrir la Nat de WARZONE en PS4 Modem HG8145V5 TotalPlay](https://www.youtube.com/watch?v=tzhoqrxVQiM)
-- [¡Solución! No se Escucha la Voz en OBS desde Voice Meeter Banana](https://www.youtube.com/watch?v=wGxvRP0UoY0)
 <!-- YT:END -->
 
 <!-- LINKS -->
