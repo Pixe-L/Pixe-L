@@ -59,11 +59,11 @@
 ### 🎥Last YT Videos
 
 <!-- YT:START -->
+- [🕒Se más Productivo con POMOTROID](https://www.youtube.com/watch?v=gLlt4f_GWYQ)
 - [Generar Token de Acceso Personal en Github](https://www.youtube.com/watch?v=FFzPazMC6hQ)
 - [🔰Actualizar NodeJS Desde la Terminal en Windows con WSL](https://www.youtube.com/watch?v=9JIuagb2FrM)
 - [💻Ejecutar Código JavaScript en Visual Studio Code](https://www.youtube.com/watch?v=92WHXqlBncI)
 - [Eliminar Múltiples Contactos a la Vez en IPHONE](https://www.youtube.com/watch?v=RZeN5E3PAEU)
-- [Error al Instalar MySQL Server ¡Solución!](https://www.youtube.com/watch?v=0MF-nUdCR7U)
 <!-- YT:END -->
 
 <!-- LINKS -->
