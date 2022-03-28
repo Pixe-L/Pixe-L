@@ -26,7 +26,7 @@
   <img align="left" alt="YT" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
 </a>
 <a href="https://www.facebook.com/tutospixel">
-  <img align="left" alt="FB" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
+  <img align="left" alt="FB" width="22px" src="https://cdn3.iconfinder.com/data/icons/free-social-icons/67/facebook_circle_color-512.png" />
 </a>
 
 <br>
