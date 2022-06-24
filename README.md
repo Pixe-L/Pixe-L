@@ -59,11 +59,11 @@
 ### 🎥Last YT Videos
 
 <!-- YT:START -->
+- [⌨Atajo de Teclado para Cambiar de Pestaña en el Navegador](https://www.youtube.com/watch?v=L2uX9aPEL1A)
 - [✔Agregar Marcas de Tiempo en los Videos de Youtube](https://www.youtube.com/watch?v=404jqfkRDLM)
 - [❌No se Puede Descargar el Archivo en DRIVE](https://www.youtube.com/watch?v=Nft7nTf-nqI)
 - [✔Hover con Border se Mueve de Posición | ¡Solución!](https://www.youtube.com/watch?v=HjZWeZD9NbQ)
 - [¡Solución! Live Server No Abre Automáticamente con WSL en Cualquier Navegador](https://www.youtube.com/watch?v=q57YN5IJVpk)
-- [🕒Se más Productivo con POMOTROID](https://www.youtube.com/watch?v=gLlt4f_GWYQ)
 <!-- YT:END -->
 
 <!-- LINKS -->
