@@ -59,11 +59,11 @@
 ### 🎥Last YT Videos
 
 <!-- YT:START -->
+- [⚡Acelerar, Limpiar y Optimizar al Máximo tu Windows sin Programas](https://www.youtube.com/watch?v=T1tImgeUL5M)
 - [✅¡Solución! al Icono Color Naranja en Wampserver](https://www.youtube.com/watch?v=MZOPA4cbPeE)
 - [Unir Recortes en Premiere Super Rápido](https://www.youtube.com/watch?v=uALDTA4p3sc)
 - [No Default DBMS en Wampserver64](https://www.youtube.com/watch?v=8yMy5KM4G8w)
 - [🎨El Bote de Pintura Rellena toda la Capa | Photoshop](https://www.youtube.com/watch?v=2xOp79D77Ik)
-- [⌨Atajo de Teclado para Cambiar de Pestaña en el Navegador](https://www.youtube.com/watch?v=L2uX9aPEL1A)
 <!-- YT:END -->
 
 <!-- LINKS -->
