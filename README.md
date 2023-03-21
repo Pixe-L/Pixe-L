@@ -59,11 +59,11 @@
 ### 🎥Last YT Videos
 
 <!-- YT:START -->
+- [Abrir Nat de Warzone en PC Modem HG8145V5 TotalPlay](https://www.youtube.com/watch?v=7SfjYaNK8cg)
 - [✅¡Solución! Base de Datos no Seleccionada Error # 1046 | PHPMyAdmin](https://www.youtube.com/watch?v=COL2F2HhxQQ)
 - [🔰MultiBoot Todo en una USB con VENTOY⚡](https://www.youtube.com/watch?v=nb-3CRWfg1o)
 - [USB Booteable con RUFUS](https://www.youtube.com/watch?v=KgVyRPINrYM)
 - [Error phpMyAdmin No se Estableció la Conexión ¡SOLUCIÓN!](https://www.youtube.com/watch?v=Hp7cM4S5ldY)
-- [⚡Acelerar, Limpiar y Optimizar al Máximo tu Windows sin Programas](https://www.youtube.com/watch?v=T1tImgeUL5M)
 <!-- YT:END -->
 
 <!-- LINKS -->
