@@ -59,11 +59,11 @@
 ### 🎥Last YT Videos
 
 <!-- YT:START -->
+- [Modificando CONTADOR de Vite con HTML y JavaScript | sin hablar / lofi relax](https://www.youtube.com/watch?v=Wn0GFO_rXzw)
 - [¡Solución! ERROR &quot;Stop the following process to enable the installation to continue vmware.exe&quot;](https://www.youtube.com/watch?v=Qz8LdLX0DP0)
 - [Los Discos de Memoria Virtual Están Llenos | ¡Solución!](https://www.youtube.com/watch?v=0s0_0K3LvQM)
 - [Abrir Nat de Warzone en PC Modem HG8145V5 TotalPlay](https://www.youtube.com/watch?v=7SfjYaNK8cg)
 - [✅¡Solución! Base de Datos no Seleccionada Error # 1046 | PHPMyAdmin](https://www.youtube.com/watch?v=COL2F2HhxQQ)
-- [🔰MultiBoot Todo en una USB con VENTOY⚡](https://www.youtube.com/watch?v=nb-3CRWfg1o)
 <!-- YT:END -->
 
 <!-- LINKS -->
