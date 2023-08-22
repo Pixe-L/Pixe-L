@@ -3,7 +3,7 @@
 <!-- [<img src="https://media.tenor.com/YhsYQkC5OqIAAAAd/synth-synthwave.gif" width="1050" height="50" />][yt] -->
 
 <!-- [<img align="right" src="https://tenor.com/view/r1-gif-21033299.gif?raw=true" width="350" height="600" />][yt] -->
-[<img align="right" src="https://media.tenor.com/KqUJmhvlZ5kAAAAd/vaporwave-aesthetic.gif" width="350" height="600" />][yt]
+[<img align="right" src="https://media.tenor.com/KqUJmhvlZ5kAAAAd/vaporwave-aesthetic.gif?raw=true" width="350" height="600" />][yt]
 
 ## 💙Systems student 📚Autodidact in the world of programming and CyberSecurity
 
