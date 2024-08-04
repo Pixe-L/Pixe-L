@@ -46,11 +46,11 @@
 ## 🎥Last YT Videos
 
 <!-- YT:START -->
+- [Actualizar Discord en Linux](https://www.youtube.com/watch?v=mQ2oJpvsBjg)
 - [DaVinci Resolve 18 No Muestra Video](https://www.youtube.com/watch?v=EMGvLpuq_kg)
 - [Modificando CONTADOR de Vite con HTML y JavaScript | sin hablar / lofi relax](https://www.youtube.com/watch?v=Wn0GFO_rXzw)
 - [¡Solución! ERROR &quot;Stop the following process to enable the installation to continue vmware.exe&quot;](https://www.youtube.com/watch?v=Qz8LdLX0DP0)
 - [Los Discos de Memoria Virtual Están Llenos | ¡Solución!](https://www.youtube.com/watch?v=0s0_0K3LvQM)
-- [Abrir Nat de Warzone en PC Modem HG8145V5 TotalPlay](https://www.youtube.com/watch?v=7SfjYaNK8cg)
 <!-- YT:END -->
 
 <!-- ## 📫Contact me -->
