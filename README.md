@@ -46,11 +46,11 @@
 ## 🎥Last YT Videos
 
 <!-- YT:START -->
+- [Error Your GPU Memory is Full en DaVinci Resolve | Solución Paso a Paso en Linux](https://www.youtube.com/watch?v=vw-2YtnXuC4)
 - [Solución Error Missing or Outdated Packages al Instalar DaVinci Resolve en Linux&quot;](https://www.youtube.com/watch?v=-7rUXe-jp9k)
 - [Cómo Configurar Tarjeta de Red a 1000 Mbps en Linux | Configuración Persistente Paso a Paso](https://www.youtube.com/watch?v=rZDWBhJ1v4g)
 - [Cómo Actualizar Discord en Linux Fácilmente | Guía Paso a Paso 2024](https://www.youtube.com/watch?v=mQ2oJpvsBjg)
 - [Cómo Solucionar DaVinci Resolve 18 No Muestra Video | Fix Fácil para Formatos de Video](https://www.youtube.com/watch?v=EMGvLpuq_kg)
-- [Modificando CONTADOR de Vite con HTML y JavaScript | sin hablar / lofi relax](https://www.youtube.com/watch?v=Wn0GFO_rXzw)
 <!-- YT:END -->
 
 <!-- ## 📫Contact me -->
