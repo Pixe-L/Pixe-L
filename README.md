@@ -46,11 +46,11 @@
 ## 🎥Last YT Videos
 
 <!-- YT:START -->
+- [Cómo Instalar Fuentes de Nerd Fonts en Linux](https://www.youtube.com/watch?v=up_msZ7tQYI)
 - [Cómo Solucionar el Problema de Voz Doble o Eco en OBS](https://www.youtube.com/watch?v=RJakFvG1IVE)
 - [Cómo Solucionar el Error &#39;The Extraction Operation was not Completed](https://www.youtube.com/watch?v=zqJFjcEOQY0)
 - [Error Your GPU Memory is Full en DaVinci Resolve | Solución Paso a Paso en Linux](https://www.youtube.com/watch?v=vw-2YtnXuC4)
 - [Solución Error Missing or Outdated Packages al Instalar DaVinci Resolve en Linux&quot;](https://www.youtube.com/watch?v=-7rUXe-jp9k)
-- [Cómo Configurar Tarjeta de Red a 1000 Mbps en Linux | Configuración Persistente Paso a Paso](https://www.youtube.com/watch?v=rZDWBhJ1v4g)
 <!-- YT:END -->
 
 <!-- ## 📫Contact me -->
