@@ -46,11 +46,11 @@
 ## 🎥Last YT Videos
 
 <!-- YT:START -->
+- [DaVinci Resolve NO ABRE en Linux Mint Solución](https://www.youtube.com/watch?v=_lZMKFbg6Vw)
 - [Cómo Crear una Nueva Red WIFI en Huawei HG8145V5 &lpar;Paso a Paso&rpar;](https://www.youtube.com/watch?v=hdggVqpIKeo)
 - [Cómo Convertir Videos MKV a MP4 en OBS Studio](https://www.youtube.com/watch?v=qf4zjSYnR8w)
 - [Instala Firefox Developer Edition en Linux Fácilmente](https://www.youtube.com/watch?v=i3o0A2P3d04)
 - [Cómo Instalar Fuentes de Nerd Fonts en Linux](https://www.youtube.com/watch?v=up_msZ7tQYI)
-- [Cómo Solucionar el Problema de Voz Doble o Eco en OBS](https://www.youtube.com/watch?v=RJakFvG1IVE)
 <!-- YT:END -->
 
 <!-- ## 📫Contact me -->
